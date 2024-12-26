@@ -1,6 +1,6 @@
-# purepay
+# Proper Genies
 
-A new Flutter project.
+Make your own estate gene.
 
 ## Getting Started
 

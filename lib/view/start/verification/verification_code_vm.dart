@@ -17,6 +17,7 @@ class VerificationCodeVm extends BaseVm {
   VerificationCodeVm({required this.id, required this.email}){
     init();
   }
+  
   init(){}
 
   TextEditingController pinController = TextEditingController();
